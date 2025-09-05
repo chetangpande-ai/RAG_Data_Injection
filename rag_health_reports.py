@@ -17,7 +17,7 @@ print("✅ Key available:", True)
 
 # 1. Load all PDFs from directory
 loader = DirectoryLoader(
-    "health_reports/",
+    "candidate_profiles/",
     glob="*.pdf",
     loader_cls=PyPDFLoader
 )
