@@ -1,2 +1,4 @@
 # Virtual environments
 rag-venv/
+
+.env
